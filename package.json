@@ -1,0 +1,38 @@
+{
+  "name": "w-demores",
+  "version": "1.0.0",
+  "description": "Resources for demo.",
+  "main": "dist/w-demores.umd.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.7.5",
+    "@babel/core": "^7.7.5",
+    "@babel/node": "^7.7.4",
+    "@babel/plugin-proposal-export-default-from": "^7.7.4",
+    "@babel/plugin-transform-runtime": "^7.7.6",
+    "@babel/polyfill": "^7.7.0",
+    "@babel/preset-env": "^7.7.6",
+    "@babel/register": "^7.7.4",
+    "@babel/runtime": "^7.7.6",
+    "gh-pages": "^2.1.1",
+    "mocha": "^6.2.2",
+    "w-package-tools": "^1.0.12"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --require @babel/register",
+    "deploy": "gh-pages -d docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuda-lyu/w-demores"
+  },
+  "homepage": "https://yuda-lyu.github.io/w-demores/w-demores.html",
+  "keywords": [
+    "package",
+    "tool",
+    "resources",
+    "demo"
+  ],
+  "author": "yuda-lyu(semisphere)",
+  "license": "MIT"
+}
