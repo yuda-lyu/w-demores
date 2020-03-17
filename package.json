@@ -1,11 +1,11 @@
 {
   "name": "w-demores",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Resources for demo.",
   "main": "dist/w-demores.umd.js",
   "dependencies": {},
   "devDependencies": {
-    "w-package-tools": "^1.0.13"
+    "w-package-tools": "^1.0.23"
   },
   "scripts": {},
   "repository": {
