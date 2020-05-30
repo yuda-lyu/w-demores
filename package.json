@@ -1,6 +1,6 @@
 {
   "name": "w-demores",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Resources for demo.",
   "main": "dist/w-demores.umd.js",
   "dependencies": {},
