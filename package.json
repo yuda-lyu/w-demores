@@ -7,7 +7,9 @@
   "devDependencies": {
     "w-package-tools": "^1.0.33"
   },
-  "scripts": {},
+  "scripts": {
+    "test": ""
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/yuda-lyu/w-demores"
