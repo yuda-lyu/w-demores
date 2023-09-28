@@ -1,10 +1,10 @@
 {
   "name": "w-demores",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "main": "dist/w-demores.umd.js",
   "dependencies": {},
   "devDependencies": {
-    "w-package-tools": "^1.0.69"
+    "w-package-tools": "^1.0.70"
   },
   "scripts": {
     "test": ""
