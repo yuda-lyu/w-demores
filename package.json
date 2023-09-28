@@ -1,6 +1,6 @@
 {
   "name": "w-demores",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "main": "dist/w-demores.umd.js",
   "dependencies": {},
   "devDependencies": {
