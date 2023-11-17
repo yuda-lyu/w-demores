@@ -13,3 +13,4 @@ let dataLikeNumber = [
     { 'make': 'Volvo', 'field1': 'D000E', 'field2': '-' },
     { 'make': 'Subaru', 'field1': 'D000c', 'field2': 48000 }
 ]
+window.dataLikeNumber=dataLikeNumber
