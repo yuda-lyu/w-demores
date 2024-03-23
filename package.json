@@ -4,7 +4,7 @@
   "main": "dist/w-demores.umd.js",
   "dependencies": {},
   "devDependencies": {
-    "w-package-tools": "^1.0.73"
+    "w-package-tools": "^1.0.75"
   },
   "scripts": {
     "test": ""
