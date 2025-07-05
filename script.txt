@@ -1,4 +1,4 @@
-#node --experimental-modules --es-module-specifier-resolution=node toolg/addVersion.mjs
+#node toolg/addVersion.mjs
 
 git add .  -A
 git commit -m 'modify: '
