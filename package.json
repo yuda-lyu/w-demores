@@ -1,9 +1,9 @@
 {
   "name": "w-demores",
-  "version": "1.0.36",
+  "version": "1.0.37",
   "dependencies": {},
   "devDependencies": {
-    "w-package-tools": "^1.1.21"
+    "w-package-tools": "^1.1.23"
   },
   "scripts": {
     "test": ""
